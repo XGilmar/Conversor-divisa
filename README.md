@@ -7,7 +7,7 @@
 Este conversor de divisas está desarrollado para el Challenge ONE Java, del programa Oracle One Education. Esto tiene un archivo Jar en caso de que quieras probarlo.
 </h4>
 
-## :martillo: Funcionalidades
+## :hammer: Funcionalidades
 
 - 'Funcionalidad 1': Puede decidir las monedas para el intercambio.
 - 'Funcionalidad 2': Comprueba si la cadena de la entrada es un número. 
