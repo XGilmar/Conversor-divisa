@@ -12,7 +12,7 @@ Este conversor de divisas está desarrollado para el Challenge ONE Java, del pro
 
 ## :hammer: Funcionalidades
 
-- `Funcionalidad 1` : Puede decidir las monedas para el intercambio.
+- `Funcionalidad 1` : Puede decidir las monedas para el intercambio en tiempo real.
 - `Funcionalidad 2` : Comprueba si la cadena de la entrada es un número. 
 
 
