@@ -18,4 +18,5 @@ Este conversor de divisas está desarrollado para el Challenge ONE Java, del pro
 
 ## :white_check_mark: Tecnologías
 - Java
+- IDE Apache Netbeans
 - Api : https://openexchangerates.org/
