@@ -23,4 +23,6 @@ Este conversor de divisas está desarrollado para el Challenge ONE Java, del pro
 
 #
 
-- Descarga jar: **[aquí](Mi-divisa/Mi coversor/Divisa.jar)**
+- Descarga jar: **[aquí](Mi-divisa/Micoversor/Divisa.jar)**
+
+<a href="https://www.tiktok.com/@bzz_program?_t=8VaEudWRNYb&_r=1" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
